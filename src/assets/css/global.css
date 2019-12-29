@@ -22,3 +22,7 @@ html, body ,#app{
 .el-pagination{
   margin-top: 15px;
 }
+
+.el-form-item.is-success .el-input__inner{
+  border-color: #67c23a;
+}
