@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <h2>权限列表页</h2>
-  </div>
+  <el-breadcrumb separator="/">
+    <slot></slot>
+  </el-breadcrumb>
 </template>
 
 <script>
@@ -13,3 +13,4 @@ export default {
 <style lang="less" scoped>
 
 </style>
+
