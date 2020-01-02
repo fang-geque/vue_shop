@@ -14,8 +14,8 @@ import '@/assets/fonts/iconfont.css'
 //导入全局样式表
 import '@/assets/css/global.css'
 
-import TreeTable from 'vue-table-with-tree-grid'
-Vue.use(TreeTable)
+import ZkTable from 'vue-table-with-tree-grid'
+Vue.use(ZkTable)
 
 //配置请求的根路径
 import axios from 'axios'
