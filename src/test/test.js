@@ -1,4 +1,0 @@
-
-window.setInterval(() => {
-
-}, interval);
